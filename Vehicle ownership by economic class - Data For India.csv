@@ -1,0 +1,11 @@
+Sector,MPCE Quintiles,Bicycle,Car,Two-wheeler
+rural,Bottom quintile,64,0,32
+rural,Fourth,49,3,57
+rural,Second,62,1,42
+rural,Third,56,2,49
+rural,Top quintile,36,10,66
+urban,Bottom quintile,45,2,46
+urban,Fourth,28,15,72
+urban,Second,37,4,60
+urban,Third,32,8,67
+urban,Top quintile,21,26,65
