@@ -46,21 +46,6 @@ Matplotlib: Visualization creation.
 Seaborn: Enhanced data visualization.
 Scikit-learn: Machine learning (K-means clustering, PCA, etc.).
 
-Running the Notebook
-To reproduce the analysis:
-
-Ensure you have Jupyter Notebook installed, or use Google Colab.
-Clone the repository and navigate to the project directory.
-Place all required datasets in the appropriate directory (e.g., /content/drive/MyDrive/EV Segmentation/ if using Colab).
-Open the EV_segmentation.ipynb notebook.
-Run the cells sequentially to execute the analysis and generate visualizations.
-
-Prerequisites
-
-Python 3.x
-Jupyter Notebook or Google Colab
-Required libraries: pip install pandas numpy matplotlib seaborn scikit-learn
-
 Acknowledgments
 The datasets are sourced from publicly available data for India. Proper citations and acknowledgments should be included when using this analysis for research or commercial purposes.
 
